@@ -1,0 +1,26 @@
+{
+  "name": "cypressboilerplate",
+  "version": "1.0.0",
+  "description": "This will serve as a default for web automation using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cypress",
+    "web-automation"
+  ],
+  "author": "Syed Hassaan Zafar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0",
+    "cypress-email-results": "^1.8.0",
+    "cypress-mochawesome-reporter": "^3.5.0",
+    "eslint": "^8.41.0",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.1.1"
+  }
+}

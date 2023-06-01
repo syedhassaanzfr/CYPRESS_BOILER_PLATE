@@ -1,0 +1,16 @@
+# Dependencies
+/node_modules
+
+# misc
+.env
+.md
+
+# cypress
+cypress/videos
+cypress/reports
+cypress/screenshots
+cypress.config.js
+package-lock.json
+
+# dependencies
+/node_modules

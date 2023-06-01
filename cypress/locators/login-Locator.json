@@ -1,0 +1,11 @@
+{
+    "email": "#email",
+    "password": "#password",
+    "loginPagemainItemsClass": ".ant-form-item-control",
+    "loginPageErroMessageClass":".ant-form-explain",
+    
+    "loginButtonText": "Login",
+    "successfulLoginNotificationText": "Logged In",
+    "emptyEmailErrorText": "Please input your e-mail address",
+    "emptyUserPwdErrorText": "Please input your password"
+}

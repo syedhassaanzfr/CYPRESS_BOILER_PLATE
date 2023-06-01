@@ -1,0 +1,12 @@
+    {
+    "notifications": {
+        "invalidLoginCreds":{
+            "message": "Invalid Login",
+            "description": "User does not exist."
+        },
+        "validLoginCreds":{
+            "message": "Invalid Login",
+            "description": "User does not exist."
+        }
+    }
+}

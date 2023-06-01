@@ -1,0 +1,9 @@
+{
+    "notificationSnackBarclass": ".ant-notification",
+    "notificationSnackBarMessageClass": ".ant-notification-notice-message",
+    "notificationSnackBarMessageDescriptionClass": ".ant-notification-notice-description",
+    "loginButtonText": "Login",
+    "successfulLoginNotificationText": "Logged In",
+    "submitButton": "button[type='submit']",
+    "loaderClass": ".style_loader__3MP_4"
+}

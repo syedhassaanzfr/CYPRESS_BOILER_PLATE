@@ -1,0 +1,6 @@
+{
+    "profileSettingIconId": "#topbar-menu",
+    "profileSettingMenuItem": ".ant-dropdown-menu-item",
+    "dashboardHeading": ".dashboard-heading"
+    
+}
