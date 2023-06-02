@@ -8,7 +8,7 @@ import constants from '../../fixtures/constants.json'
 const utility = require('../../support/utility')
 
 
-describe('login circadia d2 env', () => {
+describe('login Module', () => {
 
 	beforeEach(() => {
 		commonsFunctions.navigateToUrl('/')
